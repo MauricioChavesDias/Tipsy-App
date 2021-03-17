@@ -15,7 +15,7 @@ Split the bill adding tips with this incredible app. Now you can easily share th
 
 
 
-## What you I learned with this app
+## What I learned with this app
 
 * Creation of Multi-screen apps with animated navigation.
 * Use of nil coalescing operator.
